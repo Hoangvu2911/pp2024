@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: VU HUY HOANG
+* Student Name: Vu Huy Hoang
 * Student ID: 22BA13146
 
